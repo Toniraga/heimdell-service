@@ -14,6 +14,7 @@
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
@@ -25,4 +26,3 @@ yarn-error.log*
 
 /server/node_modules
 /server/package-lock.json
-/config.env
